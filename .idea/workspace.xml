@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7be6451c-e158-42dc-bdd5-ff9ecd826f71" name="Changes" comment="part one solved">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="7be6451c-e158-42dc-bdd5-ff9ecd826f71" name="Changes" comment="part two solved">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Day2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/day2.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Day1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Day1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/day1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/day1.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,7 +99,13 @@
       <option name="presentableId" value="LOCAL−00005" />
       <updated>1670188056013</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL−00006" summary="part two solved">
+      <created>1670190510867</created>
+      <option name="number" value="LOCAL−00006" />
+      <option name="presentableId" value="LOCAL−00006" />
+      <updated>1670190510867</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -119,7 +125,8 @@
     <MESSAGE value=".." />
     <MESSAGE value="trial data" />
     <MESSAGE value="part one solved" />
-    <option name="LAST_COMMIT_MESSAGE" value="part one solved" />
+    <MESSAGE value="part two solved" />
+    <option name="LAST_COMMIT_MESSAGE" value="part two solved" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
