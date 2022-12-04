@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7be6451c-e158-42dc-bdd5-ff9ecd826f71" name="Changes" comment="trial data">
-      <change afterPath="$PROJECT_DIR$/src/main/java/InitMain.java" afterDir="false" />
+    <list default="true" id="7be6451c-e158-42dc-bdd5-ff9ecd826f71" name="Changes" comment="part one solved">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/adventofcode2022.iml" beforeDir="false" afterPath="$PROJECT_DIR$/adventofcode2022.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Day1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Day1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/day1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/day1.txt" afterDir="false" />
     </list>
@@ -95,7 +93,13 @@
       <option name="presentableId" value="LOCAL−00004" />
       <updated>1670182406990</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL−00005" summary="part one solved">
+      <created>1670188056013</created>
+      <option name="number" value="LOCAL−00005" />
+      <option name="presentableId" value="LOCAL−00005" />
+      <updated>1670188056013</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -114,15 +118,16 @@
     <MESSAGE value="bajs" />
     <MESSAGE value=".." />
     <MESSAGE value="trial data" />
-    <option name="LAST_COMMIT_MESSAGE" value="trial data" />
+    <MESSAGE value="part one solved" />
+    <option name="LAST_COMMIT_MESSAGE" value="part one solved" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/Day1.java</url>
-          <line>23</line>
-          <option name="timeStamp" value="3" />
+          <line>25</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
