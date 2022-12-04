@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7be6451c-e158-42dc-bdd5-ff9ecd826f71" name="Changes" comment="bajs">
+    <list default="true" id="7be6451c-e158-42dc-bdd5-ff9ecd826f71" name="Changes" comment="trial data">
+      <change afterPath="$PROJECT_DIR$/src/main/java/InitMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/adventofcode2022.iml" beforeDir="false" afterPath="$PROJECT_DIR$/adventofcode2022.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Day1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Day1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/day1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/day1.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +42,26 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Day1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.Day1" />
+      <module name="adventofcode2022" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Day1" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -60,7 +83,19 @@
       <option name="presentableId" value="LOCAL−00002" />
       <updated>1670175971852</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL−00003" summary="..">
+      <created>1670182370182</created>
+      <option name="number" value="LOCAL−00003" />
+      <option name="presentableId" value="LOCAL−00003" />
+      <updated>1670182370182</updated>
+    </task>
+    <task id="LOCAL−00004" summary="trial data">
+      <created>1670182406990</created>
+      <option name="number" value="LOCAL−00004" />
+      <option name="presentableId" value="LOCAL−00004" />
+      <updated>1670182406990</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -77,6 +112,29 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
     <MESSAGE value="bajs" />
-    <option name="LAST_COMMIT_MESSAGE" value="bajs" />
+    <MESSAGE value=".." />
+    <MESSAGE value="trial data" />
+    <option name="LAST_COMMIT_MESSAGE" value="trial data" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Day1.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="getClass().getClassLoader().getResourceAsStream(&quot;day1.txt&quot;)" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/adventofcode2022$Day1.ic" NAME="Day1 Coverage Results" MODIFIED="1670183792817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>main.java.*</FILTER>
+    </SUITE>
   </component>
 </project>
