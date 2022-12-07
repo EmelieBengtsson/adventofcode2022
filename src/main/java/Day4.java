@@ -59,6 +59,8 @@ public class Day4 {
 
                 //System.out.println(" ");
 
+
+                /**
                 boolean twoStartInOne = false;
                 boolean twoStopInOne = false;
                 boolean oneStartInTwo = false;
@@ -88,6 +90,21 @@ public class Day4 {
                     if (oneStartInTwo && oneStopInTwo){
                         overlap++;
                     }
+                }
+                 **/
+
+                boolean isOverlap = false;
+
+                for(int i= 0; i<elfOne.length; i++){
+                    for ( int j= 0; j< elfTwo.length; j++){
+                        if(elfOne[i] == elfTwo[j]){
+                            isOverlap = true;
+                        }
+                    }
+                }
+
+                if(isOverlap){
+                    overlap++;
                 }
 
             }
