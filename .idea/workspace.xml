@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7be6451c-e158-42dc-bdd5-ff9ecd826f71" name="Changes" comment="day three part one solved">
-      <change beforePath="$PROJECT_DIR$/src/main/java/Day3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Day3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/day3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/day3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Day4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/day4.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +40,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Day3">
+  <component name="RunManager" selected="Application.Day4">
     <configuration name="Day1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main.java.Day1" />
       <module name="adventofcode2022" />
@@ -67,8 +68,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Day4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day4" />
+      <module name="adventofcode2022" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Day4" />
         <item itemvalue="Application.Day3" />
         <item itemvalue="Application.Day2" />
         <item itemvalue="Application.Day1" />
@@ -175,6 +184,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/Day2.java</url>
           <line>14</line>
           <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Day4.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
