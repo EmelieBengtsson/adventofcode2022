@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7be6451c-e158-42dc-bdd5-ff9ecd826f71" name="Changes" comment="day four part one solved">
-      <change beforePath="$PROJECT_DIR$/src/main/java/Day4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Day4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/day4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/day4.txt" afterDir="false" />
+    <list default="true" id="7be6451c-e158-42dc-bdd5-ff9ecd826f71" name="Changes" comment="day four part two solved">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Day5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/day5.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +40,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Day4">
+  <component name="RunManager" selected="Application.Day5">
     <configuration name="Day1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main.java.Day1" />
       <module name="adventofcode2022" />
@@ -74,8 +75,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Day5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day5" />
+      <module name="adventofcode2022" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Day5" />
         <item itemvalue="Application.Day4" />
         <item itemvalue="Application.Day3" />
         <item itemvalue="Application.Day2" />
@@ -152,7 +161,13 @@
       <option name="presentableId" value="LOCAL−00010" />
       <updated>1670457107683</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL−00011" summary="day four part two solved">
+      <created>1670457545697</created>
+      <option name="number" value="LOCAL−00011" />
+      <option name="presentableId" value="LOCAL−00011" />
+      <updated>1670457545697</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -176,7 +191,8 @@
     <MESSAGE value="day two solved" />
     <MESSAGE value="day three part one solved" />
     <MESSAGE value="day four part one solved" />
-    <option name="LAST_COMMIT_MESSAGE" value="day four part one solved" />
+    <MESSAGE value="day four part two solved" />
+    <option name="LAST_COMMIT_MESSAGE" value="day four part two solved" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -195,6 +211,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/Day4.java</url>
           <line>29</line>
           <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Day5.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="12" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
